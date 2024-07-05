@@ -3,8 +3,7 @@ from PIL import Image
 import base64
 
 # Caminho da imagem que será usada como ícone da página
-image_path = r"C:\Users\Neemias G Braga\Music\node_modules\serve-index\public\icons\map.png"
-with open(image_path, "rb") as image_file:
+with open("map.png") as image_file:
     encoded_string = base64.b64encode(image_file.read()).decode()
 
 # Configuração da página com título, ícone e layout
