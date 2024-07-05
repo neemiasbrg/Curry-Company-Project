@@ -2,14 +2,10 @@ import streamlit as st
 from PIL import Image
 import base64
 
-# Caminho da imagem que será usada como ícone da página
-with open("map.png") as image_file:
-    encoded_string = base64.b64encode(image_file.read()).decode()
-
 # Configuração da página com título, ícone e layout
 st.set_page_config(
     page_title='Home',
-    page_icon=f"data:image/png;base64,{encoded_string}",
+    page_icon='map.png',
     layout='wide'
 )
 
