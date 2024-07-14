@@ -1,3 +1,5 @@
+<img src="curry_company_banner.png">
+
 # Cury Company - Análise de KPIs Estratégicos
 
 ## 1. Problema de Negócio
