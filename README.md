@@ -84,7 +84,7 @@ O painel estratégico foi desenvolvido com base nas seguintes visões e métrica
 
 ## 5. Produto Final do Projeto
 
-O produto final é um painel online hospedado em nuvem, acessível a partir de qualquer dispositivo conectado à internet. O painel pode ser acessado através do seguinte link: [Painel Cury Company](https://project-currycompany.streamlit.app/)
+O produto final é um painel online hospedado em nuvem, acessível a partir de qualquer dispositivo conectado à internet. O painel pode ser acessado através do seguinte link: [Painel Cury Company](https://neemiasbrg-currycompany-growthdashboardoncurrycompany.streamlit.app/)
 
 ## 6. Conclusão
 
